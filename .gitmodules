@@ -2,5 +2,5 @@
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "jaivardhan.com/themes/PaperMod"]
-	path = themes/PaperMod/PaperMod
+	path = PaperMod/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
