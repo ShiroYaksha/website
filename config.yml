@@ -8,6 +8,8 @@ title: My New Hugo Site
 enableEmoji: true
 pygmentsUseClasses: true
 
+canonifyURLs: true
+
 minify:
     disableXML: true
     # minifyOutput: true
