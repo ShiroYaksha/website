@@ -7,7 +7,7 @@ tags: ["PaperMod"]
 author: "Aditya Telange"
 draft: true
 aliases: [/posts/papermod/papermod-how-to]
-weight: 3
+#weight: 3
 ---
 
 ## Intro
