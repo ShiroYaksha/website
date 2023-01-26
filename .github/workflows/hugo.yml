@@ -31,6 +31,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.102.3
+      # Uncomment below to enable Hugo extended (https://discourse.gohugo.io/t/should-i-use-hugo-extended-for-a-new-hugo-project/13954)
+      #extended: true  
     steps:
       - name: Install Hugo CLI
         run: |
